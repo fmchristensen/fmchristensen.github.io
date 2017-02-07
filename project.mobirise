@@ -469,6 +469,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts1-m",
           "_params": {
             "paddingTop": 3,
@@ -500,18 +505,20 @@
           },
           "text1": "<strong>Direccion</strong><br>H. Irigoyen 866, 2 Piso<br>Buenos Aires<br>Argentina",
           "text2": "<strong>Telefono</strong><br>+54 &nbsp;9 115 007 &nbsp;0611<br><br>",
-          "text3": "<strong>E-mail</strong><br>info@laenke.com<br>soporte@laenke.com<br>ventas@laenke.com",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text3": "<strong>E-mail</strong><br>info@laenke.com<br>soporte@laenke.com<br>ventas@laenke.com"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#000000"
+            }
+          },
           "_anchor": "footer1-k",
           "_params": {
             "paddingTop": 2,
@@ -525,14 +532,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 laenke - Todos los derechos reservados -",
-          "_styles": {
-            "P": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "color": "#000000"
-            }
-          }
+          "text": "Copyright (c) 2016 laenke - Todos los derechos reservados -"
         },
         {
           "_styles": {
