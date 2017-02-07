@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 
 
@@ -457,6 +456,13 @@ h6,
 #form1-9 .mbr-section-title {
   font-size: 32px;
 }
+#contacts1-m P {
+  color: #000000;
+}
+#footer1-k P {
+  font-family: 'Ubuntu', sans-serif;
+  color: #000000;
+}
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -519,13 +525,4 @@ h6,
 #menu-c .link[aria-expanded="true"],
 #menu-c .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
-}
-#contacts1-f P {
-  color: #000000;
-  font-size: 14px;
-  font-family: 'Lato', sans-serif;
-}
-#contacts1-f STRONG {
-  color: #7c7c7c;
-  font-family: 'Montserrat', sans-serif;
 }
