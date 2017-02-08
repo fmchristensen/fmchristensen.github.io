@@ -400,8 +400,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<br>laenke<br><br>",
-          "text": "laenke es una empresa profesional de nueva generación, <br>la cual provee y asesora a todos sus clientes en el uso e <br>instalación de los mejores dispositivos inteligentes del mercado.<br><br>Un  equipo conformado por profesionales <br>multidisciplinarios apasionados por la tecnología  y con un <br>claro entendimiento del valor que dichos \"objetos inteligentes\" proveen. <br><br>Nuestro foco, el usuario y su beneficio.<br><br>",
+          "title": "<br>lænke<br><br>",
+          "text": "lænke es una empresa profesional de nueva generación, <br>la cual provee y asesora a todos sus clientes en el uso e <br>instalación de los mejores dispositivos inteligentes del mercado.<br><br>Un  equipo conformado por profesionales <br>multidisciplinarios apasionados por la tecnología  y con un <br>claro entendimiento del valor que dichos \"objetos inteligentes\" proveen. <br><br>Nuestro foco, el usuario y su beneficio.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -489,7 +489,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-02-06-at-22-128x29.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-02-08-at-20-128x26.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -607,7 +607,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-2-209x128.png",
+              "src": "@PROJECT_PATH@/assets/images/laenke-red-209x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -623,7 +623,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://fmchristensen.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">laenke</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://fmchristensen.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">lænke</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-e\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>INTELIGENTE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn\"></span>PRODUCTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-1\">Seguridad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-6\">Robot Limpiador</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-8\" aria-expanded=\"false\">Led Inteligentes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-7\">Robot de Pileta</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-h\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         }
       ]
