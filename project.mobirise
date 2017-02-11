@@ -489,7 +489,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/laenke-final-logo-128x41.jpg",
+              "src": "@PROJECT_PATH@/assets/images/laenke-800-128x37.jpg",
               "width": 128,
               "active": true,
               "link": "",
