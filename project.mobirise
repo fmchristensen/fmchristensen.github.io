@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -505,7 +505,7 @@
           },
           "text1": "<strong>Direccion</strong><br>H. Irigoyen 866, 2 Piso<br>Buenos Aires<br>Argentina",
           "text2": "<strong>Telefono</strong><br>+54 &nbsp;9 115 007 &nbsp;0611<br><br>",
-          "text3": "<p><strong>E-mail</strong><br>info@laenke.com<br>soporte@laenke.com<br>ventas@laenke.com</p>"
+          "text3": "<p><strong>E-mail</strong><br>info@laenke.com<br><br></p>"
         },
         {
           "_tags": [
