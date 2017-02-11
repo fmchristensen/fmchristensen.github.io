@@ -619,10 +619,10 @@
               "name": "link",
               "family": "MobiriseIcons",
               "link": " ",
-              "size": "",
+              "size": "40",
               "active": true,
               "newWindow": false,
-              "color": "#7c706b"
+              "color": "#c1c1c1"
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://fmchristensen.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">lænke</a>",
