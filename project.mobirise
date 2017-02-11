@@ -505,7 +505,7 @@
           },
           "text1": "<strong>Direccion</strong><br>H. Irigoyen 866, 2 Piso<br>Buenos Aires<br>Argentina",
           "text2": "<strong>Telefono</strong><br>+54 &nbsp;9 115 007 &nbsp;0611<br><br>",
-          "text3": "<strong>E-mail</strong><br>info@laenke.com<br>soporte@laenke.com<br>ventas@laenke.com"
+          "text3": "<p><strong>E-mail</strong><br><a href=\"&lt;a href=&quot;mailto:info@laenke.com&quot;&gt;Email Me&lt;/a&gt; \">info@laenke.com</a><br>soporte@laenke.com<br>ventas@laenke.com</p>"
         },
         {
           "_tags": [
