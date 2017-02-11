@@ -541,7 +541,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "32px",
+              "font-size": "36px",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
@@ -599,7 +599,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": false
@@ -622,7 +622,7 @@
               "size": "40",
               "active": true,
               "newWindow": false,
-              "color": "#c1c1c1"
+              "color": "#f36967"
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://fmchristensen.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">lænke</a>",
