@@ -489,7 +489,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-02-08-at-20-128x26.png",
+              "src": "@PROJECT_PATH@/assets/images/laenke-final-logo-128x41.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -616,10 +616,10 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "info",
+              "name": "link",
               "family": "MobiriseIcons",
               "link": " ",
-              "size": "28",
+              "size": "32",
               "active": true,
               "newWindow": false,
               "color": "#000000"
